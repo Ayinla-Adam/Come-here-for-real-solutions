@@ -1,0 +1,29 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+.container {
+    border-radius: 10px;
+    padding: 0.5rem;
+    text-align: center;
+    width: 200px;
+    background-color: white;
+    margin: 10rem auto;
+    font-family: sans-serif;
+}
+
+img {
+    border-radius: 10px;
+}
+
+.img-text-1 {
+    font-size: 1rem;
+    font-weight: 700;
+    letter-spacing: 0.1px;
+}
+
+.img-text-2 {
+    font-size: 0.7rem;
+    line-height: 1.5;
+    color: grey;
+}
